@@ -3,7 +3,8 @@
 The data set chosen consists of all crimes reported by the Boston Police Department in Boston from the year 2015 to date
 
 • Type of crime committed
-• Time when the crime was committed • Locationofthecrime
+• Time when the crime was committed 
+• Locationofthecrime
 • Whether a shooting was involved etc.
 
 This project predominantly has two aims
